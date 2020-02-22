@@ -8,7 +8,7 @@ A flash card App!
 
 ### App Walk-though
 
-<img src="https://imgur.com/Dd4lDw4" width=200><br>
+<img src="https://imgur.com/aNh6Xnw.gif" width=200><br>
 
 
 
